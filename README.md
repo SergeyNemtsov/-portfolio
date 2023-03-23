@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="http://t.me/QA_Sergey_N">
+  <a href="http://t.me/QA_Sergey_N" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-9cf?style=flat&logo=Telegram&logoColor=dark" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/nemtsov_sergei">
