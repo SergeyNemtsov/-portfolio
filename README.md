@@ -32,31 +32,33 @@ ___
 ___
 
 ### Основы тестирования ПО
-##### По результату тестирования бета-версии сайта Интернет-магазина https://new.chitai-gorod.ru , в данном портфолио предлагаю вам ознакомиться с примерами моего составления:
+##### В результате обучения у https://vk.com/zapiskisedogotestera , тестировалась бета-версия сайта Интернет-магазина https://new.chitai-gorod.ru , в данном портфолио предлагаю вам ознакомиться с примерами моего составления:
 Для того чтобы просмотреть мои работы в Testlink и Redmine ( login: Nemtsovtest / password: Qwert12345 )
 
-##### Чек листы и тест кейсы:
 <div id="buttons" align="left">
+  <li>
+    Чек-листы и тест-кейсы: 
   <a href="https://docs.google.com/spreadsheets/d/1XRH22KkHJ5Mr7_fkhRIn-_NckQI4ZUgNsMhWQyM06JM/edit#gid=0" target="_blank">
     <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button"/>
   </a>
   <a href="http://testlink.it-online-school.ru/login.php?note=expired&destination=%2Flinkto.php%3FtprojectPrefix%3D27_CHITAY1%26item%3Dtestsuite%26id%3D249054" target="_blank">
     <img src="https://img.shields.io/badge/Testlink-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Testlink Button"/>
-  </a>
+  </a></li>
   </div>
   
-  ##### Баг-репорты:
+
  <div id="buttons" align="left">
+    <li>Баг-репорты:
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=491241257">
     <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button"/>
   </a>
   <a href="http://testlink.it-online-school.ru/login.php?note=expired&destination=%2Flinkto.php%3FtprojectPrefix%3D27_CHITAY1%26item%3Dtestsuite%26id%3D249054">
     <img src="https://img.shields.io/badge/Redmine-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Redmine Button"/>
-  </a>
+  </a></li>
   </div>
   
- ##### Техники тест-дизайна:
 <div id="buttons" align="left">
+  <li>Техники тест-дизайна
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=1826811645">
     <img src="https://img.shields.io/badge/Состояния_и_переходы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Состояния_и_переходы Button"/>
   </a>
@@ -68,51 +70,54 @@ ___
   </a>
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=0">
     <img src="https://img.shields.io/badge/Позитивные_и_негативные-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Позитивные_и_негативные Button"/>
-  </a>
+  </a></li>
   </div>
   
-  ##### Отчет сессионного тестирования:
+
   <div id="buttons" align="left">
+  <li>Отчет сессионного тестирования:
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=441719583">
     <img src="https://img.shields.io/badge/Отчет-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Отчет Button"/>
-  </a>
+  </a></li>
   </div>
   
-  ##### План сценарного и  регрессионного тестирования:
   <div id="buttons" align="left">
+   <li>План сценарного и регерссионного тестирования
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=441719583">
     <img src="https://img.shields.io/badge/Сценарное-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Сценарное Button"/>
   </a>
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=441719583">
     <img src="https://img.shields.io/badge/Регрессионное-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="регрессионное Button"/>
-  </a>
+  </a></li>
   </div>
                                                                                                                                        
-##### Тест план для тестирования функций:
    <div id="buttons" align="left">
+   <li>
+     Тест план для тестирования функций:                              
   <a href="https://clck.ru/32M6M6">
     <img src="https://img.shields.io/badge/Xmind-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Xmind Button"/>
   </a>
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=471195378">
     <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button"/>
   </a>
-  </div>                                                                                                                                    
-
-   ##### Таблица и запросы по SQL:
+     </li>  
+  </div>     
+                                                                                                                                       
    <div id="buttons" align="left">
+                                 <li>Таблица и запросы по SQL:
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=18521223">
     <img src="https://img.shields.io/badge/Таблица-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
   </a>
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=22162382">
     <img src="https://img.shields.io/badge/Запросы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Запросы Button"/>
-  </a>
-  </div>                                                                                                                                     
-
-##### Таблица и запросы по API:
+  </a></li>
+  </div>      
+                                                                                                                           
    <div id="buttons" align="left">
+                                 <li>Таблица и запросы по API:
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=1045960963">
     <img src="https://img.shields.io/badge/Таблица-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
-  </a>
+  </a></li>
   </div>
 
 ### Интенсив по API
