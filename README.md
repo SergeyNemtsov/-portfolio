@@ -39,7 +39,7 @@ ___
   <li>
     Чек-листы и тест-кейсы: 
   <a href="https://docs.google.com/spreadsheets/d/1XRH22KkHJ5Mr7_fkhRIn-_NckQI4ZUgNsMhWQyM06JM/edit#gid=0" target="_blank">
-    <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button"/>
+    <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
   </a>
   <a href="http://testlink.it-online-school.ru/login.php?note=expired&destination=%2Flinkto.php%3FtprojectPrefix%3D27_CHITAY1%26item%3Dtestsuite%26id%3D249054" target="_blank">
     <img src="https://img.shields.io/badge/Testlink-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Testlink Button"/>
