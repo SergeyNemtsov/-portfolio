@@ -34,11 +34,11 @@ ___
 ### Основы тестирования ПО
 ##### По результату тестирования бета-версии сайта Интернет-магазина https://new.chitai-gorod.ru , в данном портфолио предлагаю вам ознакомиться с примерами моего составления:
 <div id="buttons" align="left">
-  <a href="https://docs.google.com/spreadsheets/d/1XRH22KkHJ5Mr7_fkhRIn-_NckQI4ZUgNsMhWQyM06JM/edit#gid=0">
-    <img src="https://img.shields.io/badge/Чек_листы_и_тест_кейсы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Чек_листы_и_тест_кейсы Button" target="_blank"/>
+  <a href="https://docs.google.com/spreadsheets/d/1XRH22KkHJ5Mr7_fkhRIn-_NckQI4ZUgNsMhWQyM06JM/edit#gid=0" target="_blank">
+    <img src="https://img.shields.io/badge/Чек_листы_и_тест_кейсы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Чек_листы_и_тест_кейсы Button"/>
   </a>
-  <a href="http://testlink.it-online-school.ru/login.php?note=expired&destination=%2Flinkto.php%3FtprojectPrefix%3D27_CHITAY1%26item%3Dtestsuite%26id%3D249054">
-    <img src="https://img.shields.io/badge/Testlink-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Testlink Button" target="_blank"/>
+  <a href="http://testlink.it-online-school.ru/login.php?note=expired&destination=%2Flinkto.php%3FtprojectPrefix%3D27_CHITAY1%26item%3Dtestsuite%26id%3D249054" target="_blank">
+    <img src="https://img.shields.io/badge/Testlink-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Testlink Button"/>
   </a>
   </div>
 
