@@ -58,7 +58,7 @@ ___
   </div>
   
 <div id="buttons" align="left">
-  <li>Техники тест-дизайна
+  <li>Техники тест-дизайна:
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=1826811645">
     <img src="https://img.shields.io/badge/Состояния_и_переходы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Состояния_и_переходы Button"/>
   </a>
@@ -77,12 +77,12 @@ ___
   <div id="buttons" align="left">
   <li>Отчет сессионного тестирования:
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=441719583">
-    <img src="https://img.shields.io/badge/Отчет-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Отчет Button"/>
+    <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Отчет Button"/>
   </a></li>
   </div>
   
   <div id="buttons" align="left">
-   <li>План сценарного и регерссионного тестирования
+   <li>План сценарного и регерссионного тестирования:
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=441719583">
     <img src="https://img.shields.io/badge/Сценарное-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Сценарное Button"/>
   </a>
@@ -106,7 +106,7 @@ ___
    <div id="buttons" align="left">
                                  <li>Таблица и запросы по SQL:
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=18521223">
-    <img src="https://img.shields.io/badge/Таблица-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
+    <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
   </a>
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=22162382">
     <img src="https://img.shields.io/badge/Запросы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Запросы Button"/>
@@ -116,7 +116,7 @@ ___
    <div id="buttons" align="left">
                                  <li>Таблица и запросы по API:
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=1045960963">
-    <img src="https://img.shields.io/badge/Таблица-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
+    <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
   </a></li>
   </div>
 
