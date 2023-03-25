@@ -59,6 +59,9 @@ ___
   
 <div id="buttons" align="left">
   <li>Техники тест-дизайна:
+    <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=80004980">
+    <img src="https://img.shields.io/badge/КЭ/ГЗ-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="КЭ/ГЗ Button"/>
+  </a>
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=1826811645">
     <img src="https://img.shields.io/badge/Состояния_и_переходы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Состояния_и_переходы Button"/>
   </a>
