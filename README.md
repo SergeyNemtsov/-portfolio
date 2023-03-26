@@ -22,7 +22,7 @@
 
 
 <div id="badges" align="center">
-Здесь представлено описание моих навыков по специальности **"QA Engineer"** 
+Здесь представлено описание моих навыков по специальности "QA Engineer"
   
 Портфолио поделено на 4 раздела с которыми можно ознакомиться в оглавлении 
   </div>
@@ -39,7 +39,8 @@ ___
 
 ### Основы тестирования ПО
 ##### В результате обучения  в [школе седого тестировщика](https://vk.com/zapiskisedogotestera) , тестировалась бета-версия сайта Интернет-магазина ["Читай-город"](https://new.chitai-gorod.ru) , в данном портфолио предлагаю вам ознакомиться с примерами моего составления:
-Для того чтобы просмотреть мои работы в Testlink и Redmine ( login: Nemtsovtest / password: Qwert12345 )
+
+Для того чтобы просмотреть мои работы в [Testlink](http://testlink.it-online-school.ru/login.php?note=expired&destination=%2Flinkto.php%3FtprojectPrefix%3D27_CHITAY1%26item%3Dtestsuite%26id%3D249054) и [Redmine](http://redmine.sedtest-school.ru/) ( login: Nemtsovtest / password: Qwert12345 )
 
 <div id="buttons" align="left">
   <li>
