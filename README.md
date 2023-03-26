@@ -52,7 +52,7 @@ ___
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=491241257">
     <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button"/>
   </a>
-  <a href="http://testlink.it-online-school.ru/login.php?note=expired&destination=%2Flinkto.php%3FtprojectPrefix%3D27_CHITAY1%26item%3Dtestsuite%26id%3D249054">
+  <a href="http://redmine.sedtest-school.ru/">
     <img src="https://img.shields.io/badge/Redmine-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Redmine Button"/>
   </a></li>
   </div>
@@ -65,7 +65,7 @@ ___
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=1826811645">
     <img src="https://img.shields.io/badge/Состояния/переходы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Состояния/переходы Button"/>
   </a>
-  <a href="http://testlink.it-online-school.ru/login.php?note=expired&destination=%2Flinkto.php%3FtprojectPrefix%3D27_CHITAY1%26item%3Dtestsuite%26id%3D249054">
+  <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=1525796168">
     <img src="https://img.shields.io/badge/Таблица_принятия_решений-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица_принятия_решений Button"/>
   </a>
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=964156639">
