@@ -71,18 +71,19 @@ ___
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=964156639">
     <img src="https://img.shields.io/badge/Pairwise-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Pairwise Button"/>
   </a>
-  <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=0">
+  <a href="https://docs.google.com/spreadsheets/d/1XRH22KkHJ5Mr7_fkhRIn-_NckQI4ZUgNsMhWQyM06JM/edit#gid=0">
     <img src="https://img.shields.io/badge/Позитивные_и_негативные-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Позитивные_и_негативные Button"/>
-  </a></li>
+  </a>
+  <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=441719583">
+    <img src="https://img.shields.io/badge/Сессионное_тестирование-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Сессионное_тестирование Button"/>
+  </a>
+    <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=906918062">
+    <img src="https://img.shields.io/badge/Предугадывание_ошибок-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Предугадывание_ошибок Button"/>
+  </a>
+  
+  </li>
   </div>
   
-
-  <div id="buttons" align="left">
-  <li>Отчет сессионного тестирования:
-  <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=441719583">
-    <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Отчет Button"/>
-  </a></li>
-  </div>
   
   <div id="buttons" align="left">
    <li>План сценарного и регерссионного тестирования:
