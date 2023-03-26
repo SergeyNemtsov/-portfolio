@@ -81,6 +81,7 @@ ___
   <a href="https://docs.google.com/spreadsheets/d/1XRH22KkHJ5Mr7_fkhRIn-_NckQI4ZUgNsMhWQyM06JM/edit#gid=0">
     <img src="https://img.shields.io/badge/Позитивные_и_негативные-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Позитивные_и_негативные Button"/>
   </a>
+  <div align="right">
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=441719583">
     <img src="https://img.shields.io/badge/Сессионное-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Сессионное Button"/>
   </a>
@@ -88,6 +89,7 @@ ___
     <img src="https://img.shields.io/badge/Предугадывание_ошибок-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Предугадывание_ошибок Button"/>
   </a>
   </li>
+  </div>
   </div>
   
   
