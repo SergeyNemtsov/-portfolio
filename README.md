@@ -87,7 +87,7 @@ ___
   
   
   <div id="buttons" align="left">
-   <li>План регерссионного тестирования:
+   <li>План подтверждающего и регерссионного тестирования:
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=1330867641">
     <img src="https://img.shields.io/badge/Регрессионное-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Регрессионное Button"/>
   </a>
