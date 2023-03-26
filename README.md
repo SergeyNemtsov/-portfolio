@@ -66,6 +66,7 @@ ___
   
 <div id="buttons" align="left">
   <li>Техники тест-дизайна:
+  <div align="right">
     <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=80004980">
     <img src="https://img.shields.io/badge/КЭ/ГЗ-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="КЭ/ГЗ Button"/>
   </a>
@@ -89,6 +90,7 @@ ___
     <img src="https://img.shields.io/badge/Предугадывание_ошибок-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Предугадывание_ошибок Button"/>
   </a>
   </li>
+  </div>
   </div>
   </div>
   
