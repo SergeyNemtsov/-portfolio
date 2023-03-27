@@ -124,7 +124,7 @@ ___
 </a></li></div>      
                                                                                                                            
 <div id="buttons" align="left">
-<li>Таблица и запросы по API:
+<li>Тестирование API:
 <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=1045960963">
 <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
 </a></li></div>
