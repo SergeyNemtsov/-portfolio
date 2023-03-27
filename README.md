@@ -143,14 +143,14 @@ ___
 Запросы DevTools: 
 <a href="https://docs.google.com/spreadsheets/d/1Bx9n97ve46AiaGRv-YN8yZMwPvZXXC27CVAV_60zLq8/edit#gid=0">
 <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
-</a>
+</a></li></div>
 
 <div id="buttons" align="left">
 <li>
 Запросы <a href="https://vk.com/away.php?to=https%3A%2F%2Fgorest.co.in%2F&post=-216539939_68&cc_key=">Go-rest</a>: 
 <a href="https://docs.google.com/spreadsheets/d/1Bx9n97ve46AiaGRv-YN8yZMwPvZXXC27CVAV_60zLq8/edit#gid=1008478320">
 <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
-</a>                                                                                                                                                  
+</a></li></div>                                                                                                                                               
                                                                                                                                                    
 <div id="buttons" align="left">
 <li>
@@ -161,9 +161,21 @@ ___
 
 <a href="https://vk.com/doc114052675_647149352?hash=IF8khuJcdN3ZzQKPmMVLdQv7M2RC0lVSkYseq2xHLHo&dl=AyMijoAwwvkBfJp2saHMzn5jbN7ywX3RMzBx92YnnXP">
 <img src="https://img.shields.io/badge/Xmind-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
-</a>  
+</a></li></div>  
   
-
+<div id="buttons" align="left">
+<li>
+Коллекция в GitHub: 
+<a href="https://github.com/SergeyNemtsov/Dummy-API#%D0%B0%D0%B2%D1%82%D0%BE%D1%82%D0%B5%D1%81%D1%82%D1%8B-%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C-urok_4">
+<img src="https://img.shields.io/badge/GitHub-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a></li></div>  
+ 
+<div id="buttons" align="left">
+<li>
+GitHub (PowerShell): 
+<a href="https://docs.google.com/document/d/1hS16YdSd4IC74G58TmtXLTdEgkMXmIIe58Ecy9ggrZU/edit?usp=sharing">
+<img src="https://img.shields.io/badge/PowerShell-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a></li></div>                                                                                                                                            
   
 ### Интенсив по SQL
 
