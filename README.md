@@ -124,7 +124,7 @@ ___
 </a></li></div>      
                                                                                                                            
 <div id="buttons" align="left">
-<li>Тестирование API:
+<li>Тестирование API (Postman):
 <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=1045960963">
 <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
 </a></li></div>
@@ -138,11 +138,33 @@ ___
 
 ### Интенсив по API
 
+<div id="buttons" align="left">
+<li>
+Запросы DevTools: 
+<a href="https://github.com/SergeyNemtsov/Dummy-API">
+<img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a>
 
+<div id="buttons" align="left">
+<li>
+Запросы <a href="https://vk.com/away.php?to=https%3A%2F%2Fgorest.co.in%2F&post=-216539939_68&cc_key=">Go-rest</a>: 
+<a href="https://docs.google.com/spreadsheets/d/1Bx9n97ve46AiaGRv-YN8yZMwPvZXXC27CVAV_60zLq8/edit#gid=1008478320">
+<img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a>                                                                                                                                                  
+                                                                                                                                                   
+<div id="buttons" align="left">
+<li>
+Тесты для объекта Post <a href=https://dummyapi.io/docs/post>DummyApi</a> : 
+<a href="https://docs.google.com/spreadsheets/d/1Bx9n97ve46AiaGRv-YN8yZMwPvZXXC27CVAV_60zLq8/edit#gid=1782166022">
+<img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a>  
 
+<a href="https://vk.com/doc114052675_647149352?hash=IF8khuJcdN3ZzQKPmMVLdQv7M2RC0lVSkYseq2xHLHo&dl=AyMijoAwwvkBfJp2saHMzn5jbN7ywX3RMzBx92YnnXP">
+<img src="https://img.shields.io/badge/Xmind-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a>  
+  
 
-
-
+  
 ### Интенсив по SQL
 
 
