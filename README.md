@@ -154,7 +154,7 @@ ___
                                                                                                                                                    
 <div id="buttons" align="left">
 <li>
-Тесты для объекта Post <a href=https://dummyapi.io/docs/post>DummyApi</a> : 
+Тестирование <a href=https://dummyapi.io/docs/post>DummyApi</a> : 
 <a href="https://docs.google.com/spreadsheets/d/1Bx9n97ve46AiaGRv-YN8yZMwPvZXXC27CVAV_60zLq8/edit#gid=1782166022">
 <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>  
