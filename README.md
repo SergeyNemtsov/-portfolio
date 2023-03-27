@@ -21,6 +21,7 @@
 </div>
 
 
+
 <div id="badges" align="center">
 Здесь представлено описание моих навыков по специальности "QA Engineer"
   
