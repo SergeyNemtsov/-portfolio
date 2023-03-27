@@ -122,7 +122,7 @@ ___
    <div id="buttons" align="left">
                                  <li>Таблица и запросы по SQL:
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=18521223">
-    <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
+    <img src="https://img.shields.io/badge/Данные-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
   </a>
   <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=22162382">
     <img src="https://img.shields.io/badge/Запросы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Запросы Button"/>
