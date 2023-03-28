@@ -179,7 +179,12 @@ GitHub (PowerShell):
   
 ### Интенсив по SQL
 
-
+<div id="buttons" align="left">
+<li>
+Запросы MySQL Workbench: 
+<a href="https://docs.google.com/spreadsheets/d/1n1z8LlE5xs8dEHIETp7kAsKH-iZntSymiua2ROGlULE/edit#gid=0">
+<img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a></li></div>  
 
 
 
