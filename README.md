@@ -1,9 +1,7 @@
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/b73wUq1jFLBTy/giphy.gif" width="80"/>
-</div>
+
 
 <div id="badges" align="center">
-<a href="http://t.me/QA_Sergey_N" target="_blank">
+<a href="http://t.me/QA_SY_NV" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-9cf?style=flat&logo=Telegram&logoColor=dark" alt="Telegram Badge"/>
 </a>
   
