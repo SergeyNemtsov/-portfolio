@@ -42,10 +42,8 @@ ___
 Для того чтобы просмотреть мои работы в [Testlink](http://testlink.it-online-school.ru/login.php?note=expired&destination=%2Flinkto.php%3FtprojectPrefix%3D27_CHITAY1%26item%3Dtestsuite%26id%3D249054) и [Redmine](http://redmine.sedtest-school.ru/) ( login: Nemtsovtest / password: Qwert12345 )
 
 
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-    <link rel="manifest" href="/site.webmanifest" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    
 <div id="buttons" align="left">
 <li>
 Чек-листы и тест-кейсы: 
