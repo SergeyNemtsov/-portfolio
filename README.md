@@ -280,13 +280,7 @@ Selenium WebDriver (node.js, nightwatch.js и регулярные выраже�
 <a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1252723661">
 <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></li></div>
-                                                                                                                                                      
-<div id="buttons" align="left">
-<li>
-Типы данных, операторы Python: 
-<a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1252723661">
-<img src="https://img.shields.io/badge/Google_tubles-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
-</a></li></div>                                                                                                                                                      
+                                                                                                                                                                                                                                                                                                            
  
 <div id="buttons" align="left">
 <li>
