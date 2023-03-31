@@ -217,9 +217,53 @@ GitHub (PowerShell):
 <img src="https://img.shields.io/badge/CSS/XPATH-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></li></div>                                                                                                                                                      
                                                                                                                                                    
+ <div id="buttons" align="left">
+<li>
+Selenium IDE: 
+<a href="https://github.com/SergeyNemtsov/html">
+<img src="https://img.shields.io/badge/GitHub-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a></li></div>                                                                                                                                                  
                                                                                                                                                    
+ <div id="buttons" align="left">
+<li>
+Типы данных и переменные: 
+<a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=134118918">
+<img src="https://img.shields.io/badge/Google_tubles-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a></li></div>
+                                                                                                                                               
+<div id="buttons" align="left">
+<li>
+Операторы,циклы,функции: 
+<a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1465278056">
+<img src="https://img.shields.io/badge/Google_tubles-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a></li></div>                                                                                                                                               
+                                                                                                                                               
+<div id="buttons" align="left">
+<li>
+Selenium WebDriver (node.js, nightwatch.js и регулярные выражения):   
+<a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1415444370">
+<img src="https://img.shields.io/badge/Часть1-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a>
+                                                                                                                                            
+<a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1357685143">
+<img src="https://img.shields.io/badge/Часть2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a>                                                                                                                                           
                                                                                                                                                    
-                                                                                                                                                   
+<a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=714559841">
+<img src="https://img.shields.io/badge/Часть3-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a></li></div>                                                                                                                                                
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
                                                                                                                                                    
 
 
