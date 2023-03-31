@@ -253,11 +253,42 @@ Selenium WebDriver (node.js, nightwatch.js и регулярные выраже�
 <img src="https://img.shields.io/badge/Часть3-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></li></div>                                                                                                                                                
                                                                                                                                                
+<div id="buttons" align="left">
+<li>
+Автотест на поиск товаров (nightwatch.js): 
+<a href="https://github.com/SergeyNemtsov/search_product/tree/main">
+<img src="https://img.shields.io/badge/GitHub_search_product-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a></li></div>                                                                                                                                                
                                                                                                                                                
+<div id="buttons" align="left">
+<li>
+Автотест API с помощью команды newman(nightwatch.js): 
+<a href="https://github.com/SergeyNemtsov/Test-Automation-API/tree/main">
+<img src="https://img.shields.io/badge/GitHub_Auto_API-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a></li></div>                                                                                                                                               
                                                                                                                                                
-                                                                                                                                               
-                                                                                                                                               
-                                                                                                                                               
+<div id="buttons" align="left">
+<li>
+Автотест API в Postman: 
+<a href="https://github.com/SergeyNemtsov/Test-Avtomation-API2">
+<img src="https://img.shields.io/badge/GitHub_Auto_API2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a></li></div>     
+ 
+<div id="buttons" align="left">
+<li>
+Основы Python: 
+<a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1252723661">
+<img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a></li></div>
+                                                                                                                                                      
+                                                                                                                                                      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
                                                                                                                                                
                                                                                                                                                
                                                                                                                                                
