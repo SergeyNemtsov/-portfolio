@@ -31,8 +31,8 @@
 ## Оглавление
 
 1. [**Основы тестирования ПО**](#основы-тестирования-по)
-2. [**Интенсив по API**](#интенсив-по-sql)
-3. [**Интенсив по SQL**](#интенсив-по-api)    
+2. [**Знания по API**](#интенсив-по-sql)
+3. [**Знания по SQL**](#интенсив-по-api)  
 4. [**Основы Автоматизации**](#основы-автоматизации)
 ___
 
@@ -132,7 +132,7 @@ ___
 </a></li></div>
 
 
-### Интенсив по API
+### Знания по API
 
 <div id="buttons" align="left">
 <li>
@@ -173,7 +173,7 @@ GitHub (PowerShell):
 <img src="https://img.shields.io/badge/PowerShell-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></li></div>                                                                                                                                            
   
-### Интенсив по SQL
+### Знания по SQL
 
 <div id="buttons" align="left">
 <li>
