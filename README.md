@@ -31,8 +31,8 @@
 ## Оглавление
 
 1. [**Основы тестирования ПО**](#основы-тестирования-по)
-2. [**Знания по API**](#интенсив-по-sql)
-3. [**Знания по SQL**](#интенсив-по-api)  
+2. [**Знания по API**](#знания-по-sql)
+3. [**Знания по SQL**](#знания-по-api)  
 4. [**Основы Автоматизации**](#основы-автоматизации)
 ___
 
@@ -186,6 +186,41 @@ GitHub (PowerShell):
 
 
 ### Основы Автоматизации
+                                                                                                                                                   
+ 
+<div id="buttons" align="left">
+<li>
+Тест-кейсы для интеграции и сценарии для e2e: 
+<a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=0">
+<img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a></li></div>                                                                                                                                                   
+
+<div id="buttons" align="left">
+<li>
+Основы HTML и CSS (Создание и оформление страницы):   
+<a href="https://github.com/SergeyNemtsov/mySite/tree/main">
+<img src="https://img.shields.io/badge/GitHub-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a>
+                                                                                                                                            
+<a href="https://vk.com/video114052675_456239087">
+<img src="https://img.shields.io/badge/Video-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a>                                                                                                                                           
+                                                                                                                                                   
+<a href="https://github.com/SergeyNemtsov/-CSS">
+<img src="https://img.shields.io/badge/Site2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a></li></div>                                                                                                                                                   
+                                                                                                                                                   
+<div id="buttons" align="left">
+<li>
+Определение локаторов: 
+<a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1428561247">
+<img src="https://img.shields.io/badge/CSS/XPATH-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a></li></div>                                                                                                                                                      
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
 
 
 
