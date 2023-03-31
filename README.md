@@ -300,15 +300,34 @@ Selenium pytest:
 <img src="https://img.shields.io/badge/Часть1-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>
  
-  <a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1843446755">
+  <a href="https://github.com/SergeyNemtsov/AT-Python-/tree/main">
 <img src="https://img.shields.io/badge/Часть2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a>
+  
+  <a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1843446755">
+<img src="https://img.shields.io/badge/Скрины_часть2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>
   
   </li></div>  
  
   
  
-                                                                                                                                               
+ <div id="buttons" align="left">
+<li>
+CI\CD Docker и Jenkins: 
+<a href="https://github.com/SergeyNemtsov/Test-Docker">
+<img src="https://img.shields.io/badge/GitHub_Docker-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a>
+ 
+  <a href="https://sun9-58.userapi.com/impg/skVJK_F4zZigvckrNaMEn4Cehyp9WoSoFF6VTg/6BwVqZ1Ja9w.jpg?size=1920x1035&quality=96&sign=211447267c231c019599851733ec3a8a&type=album">
+<img src="https://img.shields.io/badge/Jenkins_Скрин1-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a>
+  
+  <a href="https://sun9-23.userapi.com/impg/BMIeGzVHwgw1W89Sw841SVm8ZQlrTnFIC1S5wA/ZVEdPyXUpJ8.jpg?size=1920x1037&quality=96&sign=b997146dfaa70bb337e6abeda418f83a&type=album">
+<img src="https://img.shields.io/badge/Jenkins_Скрин2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+</a>
+  
+  </li></div>                                                                                                                                                
                                                                                                                                                
                                                                                                                                                
                                                                                                                                                
