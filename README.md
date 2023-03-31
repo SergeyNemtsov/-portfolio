@@ -106,9 +106,7 @@ ___
 <div id="buttons" align="left">
 <li>
 Тест план для тестирования функций:                              
-<a href="https://clck.ru/32M6M6">
-<img src="https://img.shields.io/badge/Xmind-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Xmind Button"/>
-</a>
+
                                                                                                                    
 <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=471195378">
 <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button"/>
