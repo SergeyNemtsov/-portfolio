@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <img src="https://media.giphy.com/media/b73wUq1jFLBTy/giphy.gif" width="80"/>
 </div>
 
