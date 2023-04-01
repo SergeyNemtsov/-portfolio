@@ -284,16 +284,16 @@ Selenium WebDriver (node.js, nightwatch.js и регулярные выраже�
 <div id="buttons" align="left">
 <li>
 Selenium pytest: 
-<ul><a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1891787017">
-<img src="https://img.shields.io/badge/Часть1-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+<ul><a href="https://docs.google.com/spreadsheets/d/18sPkAgvW-ueLJumNk5z50RqXQvvqmvEInUEpKIrdEXc/edit#gid=69014182">
+<img src="https://img.shields.io/badge/test_authorization-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>
  
   <a href="https://github.com/SergeyNemtsov/AT-Python-/tree/main">
-<img src="https://img.shields.io/badge/Часть2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+<img src="https://img.shields.io/badge/test_suite-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>
   
   <a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1843446755">
-<img src="https://img.shields.io/badge/Скрины_часть2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+<img src="https://img.shields.io/badge/Screenshots_test_suite-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>
   
   </ul></li></div>  
