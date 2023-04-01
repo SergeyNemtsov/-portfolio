@@ -173,11 +173,11 @@ GitHub (PowerShell):
 <li>
 Запросы MySQL Workbench: 
 <ul>
- <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=18521223">
-<img src="https://img.shields.io/badge/Часть1-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
+ <a href="https://docs.google.com/spreadsheets/d/1cvMDS5YPlJ69B-Hf2UtuJkhbIKOK8r6KRaKEuMicZRA/edit?usp=sharing">
+<img src="https://img.shields.io/badge/Запросы1-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
 </a>                             
 <a href="https://docs.google.com/spreadsheets/d/1n1z8LlE5xs8dEHIETp7kAsKH-iZntSymiua2ROGlULE/edit#gid=0">
-<img src="https://img.shields.io/badge/Часть2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+<img src="https://img.shields.io/badge/Запросы2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></ul></li></div>  
 
 
