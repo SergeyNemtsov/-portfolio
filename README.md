@@ -70,15 +70,15 @@ ___
 <img src="https://img.shields.io/badge/КЭ/ГЗ-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="КЭ/ГЗ But"/>
 </a>
                                                                                                                    
-<a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=1826811645">
+<a href="https://docs.google.com/spreadsheets/d/1k2vhN2r7aApHD2ge0heVZrDYkGNFl8rMksWGI2e5Ea0/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Состояния/переходы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Состояния/переходы Button"/>
 </a>
   
-<a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=1525796168">
+<a href="https://docs.google.com/spreadsheets/d/1PMLby8siVZrFYqxqXqUtIlPTF11e5e4S01grFJSybNI/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Таблица_принятия_решений-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица_принятия_решений Button"/>
 </a>
 
-<a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=964156639">
+<a href="https://docs.google.com/spreadsheets/d/10RwHnScBscz7_pj7FGCZ8qkCk9ojC3DCRl02w-JAxzM/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Pairwise-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Pairwise Button"/>
 </a>
   
