@@ -136,14 +136,14 @@ _____
 <div id="buttons" align="left">
 <li>
 Запросы <a href="https://vk.com/away.php?to=https%3A%2F%2Fgorest.co.in%2F&post=-216539939_68&cc_key=">Go-rest</a>: 
-<ul><a href="https://docs.google.com/spreadsheets/d/1Bx9n97ve46AiaGRv-YN8yZMwPvZXXC27CVAV_60zLq8/edit#gid=1008478320">
+<ul><a href="https://docs.google.com/spreadsheets/d/1Xs0NNZHzZQ5abXqzc1OhLbtFsCHfEycrKRa103TNq4s/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></ul></li></div>                                                                                                                                               
                                                                                                                                                    
 <div id="buttons" align="left">
 <li>
 Тестирование <a href=https://dummyapi.io/docs/post>DummyApi</a> : 
-<ul><a href="https://docs.google.com/spreadsheets/d/1Bx9n97ve46AiaGRv-YN8yZMwPvZXXC27CVAV_60zLq8/edit#gid=1782166022">
+<ul><a href="https://docs.google.com/spreadsheets/d/1bRKKWyGWlh14xPK9poko2vk2i6OFvZuRqFSoCxT6X_Q/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>  
 
