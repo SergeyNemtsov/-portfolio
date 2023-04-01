@@ -55,7 +55,7 @@ ___
 
 <div id="buttons" align="left">  
 <li>Баг-репорты:
-<ul><a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=491241257&range=C1">
+<ul><a href="https://docs.google.com/spreadsheets/d/1f4rKdCh3-DbRB5yBbl0K9yd8aDIdT2yzhfavnE6elDo/edit#gid=1222608702">
 <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="КЭ/ГЗ But"/>
 </a> 
  
@@ -66,7 +66,7 @@ ___
   
 <div id="but" align="left">
 <li>Техники тест-дизайна:
-<ul><a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=80004980">
+<ul><a href="https://docs.google.com/spreadsheets/d/1yDP-Z-B_dCTMtM62WLKZwuhe5io4oTsy6xykX6wk_Rk/edit#gid=298551627">
 <img src="https://img.shields.io/badge/КЭ/ГЗ-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="КЭ/ГЗ But"/>
 </a>
                                                                                                                    
