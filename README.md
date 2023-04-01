@@ -292,7 +292,7 @@ Selenium pytest:
 <img src="https://img.shields.io/badge/test_suite-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>
   
-  <a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1843446755">
+  <a href="https://docs.google.com/spreadsheets/d/1vGyBDw4aSpG0PkKLeF4-19C6IH5UxOQgQuCtcC1gIS8/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Screenshots_test_suite-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>
   
@@ -308,11 +308,11 @@ CI\CD Docker и Jenkins:
 </a>
  
   <a href="https://sun9-58.userapi.com/impg/skVJK_F4zZigvckrNaMEn4Cehyp9WoSoFF6VTg/6BwVqZ1Ja9w.jpg?size=1920x1035&quality=96&sign=211447267c231c019599851733ec3a8a&type=album">
-<img src="https://img.shields.io/badge/Jenkins_Скрин1-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+<img src="https://img.shields.io/badge/Jenkins_screenshot1-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>
   
   <a href="https://sun9-23.userapi.com/impg/BMIeGzVHwgw1W89Sw841SVm8ZQlrTnFIC1S5wA/ZVEdPyXUpJ8.jpg?size=1920x1037&quality=96&sign=b997146dfaa70bb337e6abeda418f83a&type=album">
-<img src="https://img.shields.io/badge/Jenkins_Скрин2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+<img src="https://img.shields.io/badge/Jenkins_screenshot2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>
   
   </ul></li></div>                                                                                                                                                
