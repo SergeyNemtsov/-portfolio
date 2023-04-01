@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />  
-</head>
-<body> 
-  
-<div id="badges" align="center">
+ <div id="badges" align="center">
 <a href="http://t.me/QA_SY_NV" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-9cf?style=flat&logo=Telegram&logoColor=dark" alt="Telegram Badge"/>
 </a>
@@ -62,12 +54,11 @@ ___
 </a></ul></li></div>
   
 
-<div id="bag" align="left">
-<li>Баг-репорты:
-<ul><a class="bag" href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=491241257">
-<img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Bag"/>
-</a>
-                                                                                                                                   
+
+### Баг-репорты: [G](https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=491241257)
+
+
+<div id="bag" align="left">                                                                                                                                   
 <a href="http://redmine.sedtest-school.ru/">
 <img src="https://img.shields.io/badge/Redmine-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Redmine Button"/>
 </a></ul></li></div>
@@ -357,8 +348,7 @@ CI\CD Docker и Jenkins:
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>
 </div
- </body>
-    </html>
+
                                                                                                                                                    
 
 
