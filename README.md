@@ -220,14 +220,14 @@ Selenium IDE:
                                                                                                                                                    
  <div id="buttons" align="left">
 <li>
-Типы данных и переменные: 
+Типы данных и переменные JS: 
 <ul><a href="https://docs.google.com/spreadsheets/d/1qkoVMwoqZBA50ZJGM_jgb6wn0PsrYfRnTy_MJwoQWSw/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Google_tubles-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></ul></li></div>
                                                                                                                                                
 <div id="buttons" align="left">
 <li>
-Операторы,циклы,функции: 
+Операторы,циклы,функции JS: 
 <ul><a href="https://docs.google.com/spreadsheets/d/10zDtNYfiqAF1pBQIkDe8tie5yj0zLPe1Is7HCiTqMF0/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Google_tubles-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></ul></li></div>                                                                                                                                               
@@ -244,7 +244,7 @@ Selenium WebDriver (node.js, nightwatch.js и регулярные выраже�
 </a>                                                                                                                                           
                                                                                                                                                    
 <a href="https://docs.google.com/spreadsheets/d/1gldo99B4jXMbcxwCv2aGcPgJTCy5dqJ1CqWPfpPx-o0/edit?usp=sharing">
-<img src="https://img.shields.io/badge/test_search-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+<img src="https://img.shields.io/badge/тест_и_хуки-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></ul></li></div>                                                                                                                                                
                                                                                                                                                
 <div id="buttons" align="left">
@@ -268,23 +268,17 @@ Selenium WebDriver (node.js, nightwatch.js и регулярные выраже�
 <img src="https://img.shields.io/badge/GitHub_Auto_API2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></ul></li></div>     
  
-<div id="buttons" align="left">
-<li>
-Основы Python: 
-<ul><a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1252723661">
-<img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
-</a></ul></li></div>
-                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                      
  
 <div id="buttons" align="left">
 <li>
 Типы данных, операторы Python: 
- <ul><a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1252723661">
-<img src="https://img.shields.io/badge/Часть1-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+ <ul><a href="https://docs.google.com/spreadsheets/d/1QEhVrs8Y0kBKs2dd4E3jmaFR_D5pg0MB3NJxCtT6B7M/edit#gid=1899984482">
+<img src="https://img.shields.io/badge/Выражения-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>                             
                               
-<a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1287750120">
-<img src="https://img.shields.io/badge/Часть2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+<a href="https://docs.google.com/spreadsheets/d/1VxGQvQzMw7dBRbD2GsDev_DWhRdQfMtDQ6RD6Lh4I4Q/edit?usp=sharing">
+<img src="https://img.shields.io/badge/Функции-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></ul></li></div>   
  
 <div id="buttons" align="left">
