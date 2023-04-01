@@ -44,6 +44,8 @@ ___
 ##### В результате обучения  в [школе седого тестировщика](https://vk.com/zapiskisedogotestera) , тестировалась бета-версия сайта Интернет-магазина ["Читай-город"](https://new.chitai-gorod.ru) , в данном портфолио предлагаю вам ознакомиться с примерами моего составления:
 
 Для того чтобы просмотреть мои работы в [Testlink](http://testlink.it-online-school.ru/login.php?note=expired&destination=%2Flinkto.php%3FtprojectPrefix%3D27_CHITAY1%26item%3Dtestsuite%26id%3D249054) и [Redmine](http://redmine.sedtest-school.ru/) ( login: Nemtsovtest / password: Qwert12345 )
+  
+Для корректного просмотра ссылок со смартфона измените мобильную версию браузера на версию ПК!
 
 
     
