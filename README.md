@@ -52,13 +52,13 @@ ___
 <a href="http://testlink.it-online-school.ru/login.php?note=expired&destination=%2Flinkto.php%3FtprojectPrefix%3D27_CHITAY1%26item%3Dtestsuite%26id%3D249054" target="_blank">
 <img src="https://img.shields.io/badge/Testlink-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Testlink Button"/>
 </a></ul></li></div>
-  
 
-
-### Баг-репорты: [G](https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=491241257)
-
-
-<div id="bag" align="left">                                                                                                                                   
+<div id="buttons" align="left">  
+<li>Баг-репорты:
+<ul><a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=491241257">
+<img src="https://img.shields.io/badge/КЭ/ГЗ-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="КЭ/ГЗ But"/>
+</a> 
+ 
 <a href="http://redmine.sedtest-school.ru/">
 <img src="https://img.shields.io/badge/Redmine-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Redmine Button"/>
 </a></ul></li></div>
@@ -66,7 +66,7 @@ ___
   
 <div id="but" align="left">
 <li>Техники тест-дизайна:
-<ul><a class="GZ" href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=80004980">
+<ul><a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=80004980">
 <img src="https://img.shields.io/badge/КЭ/ГЗ-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="КЭ/ГЗ But"/>
 </a>
                                                                                                                    
