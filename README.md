@@ -221,30 +221,30 @@ Selenium IDE:
  <div id="buttons" align="left">
 <li>
 Типы данных и переменные: 
-<ul><a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=134118918">
+<ul><a href="https://docs.google.com/spreadsheets/d/1qkoVMwoqZBA50ZJGM_jgb6wn0PsrYfRnTy_MJwoQWSw/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Google_tubles-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></ul></li></div>
                                                                                                                                                
 <div id="buttons" align="left">
 <li>
 Операторы,циклы,функции: 
-<ul><a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1465278056">
+<ul><a href="https://docs.google.com/spreadsheets/d/10zDtNYfiqAF1pBQIkDe8tie5yj0zLPe1Is7HCiTqMF0/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Google_tubles-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></ul></li></div>                                                                                                                                               
                                                                                                                                                
 <div id="buttons" align="left">
 <li>
 Selenium WebDriver (node.js, nightwatch.js и регулярные выражения):   
-<ul><a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1415444370">
-<img src="https://img.shields.io/badge/Часть1-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+<ul><a href="https://docs.google.com/spreadsheets/d/15o4J6SkA1wqXm-5msxVl6th79fRjmk2wc9STgrWEfjU/edit?usp=sharing">
+<img src="https://img.shields.io/badge/node.js-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>
                                                                                                                                             
-<a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1357685143">
-<img src="https://img.shields.io/badge/Часть2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+<a href="https://docs.google.com/spreadsheets/d/1N5HwNgZHRGVjIYLcLe00e3h422vGk4wEyXC5a4jfJ60/edit?usp=sharing">
+<img src="https://img.shields.io/badge/nightwatch.js-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>                                                                                                                                           
                                                                                                                                                    
-<a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=714559841">
-<img src="https://img.shields.io/badge/Часть3-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+<a href="https://docs.google.com/spreadsheets/d/1gldo99B4jXMbcxwCv2aGcPgJTCy5dqJ1CqWPfpPx-o0/edit?usp=sharing">
+<img src="https://img.shields.io/badge/test_search-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></ul></li></div>                                                                                                                                                
                                                                                                                                                
 <div id="buttons" align="left">
