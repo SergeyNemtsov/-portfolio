@@ -55,7 +55,7 @@ ___
 
 <div id="buttons" align="left">  
 <li>Баг-репорты:
-<ul><a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=491241257">
+<ul><a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=491241257&range=C1">
 <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="КЭ/ГЗ But"/>
 </a> 
  
