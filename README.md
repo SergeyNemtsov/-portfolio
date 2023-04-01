@@ -3,11 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />  
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-   </head>
+</head>
 <body> 
   
 <div id="badges" align="center">
@@ -66,7 +62,7 @@ ___
 
 <div id="bag" align="left">
 <li>Баг-репорты:
-<ul><a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=491241257">
+<ul><a class="bag" href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=491241257">
 <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Bag"/>
 </a>
                                                                                                                                    
@@ -77,7 +73,7 @@ ___
   
 <div id="but" align="left">
 <li>Техники тест-дизайна:
-<ul><a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=80004980">
+<ul><a class="GZ" href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=80004980">
 <img src="https://img.shields.io/badge/КЭ/ГЗ-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="КЭ/ГЗ But"/>
 </a>
                                                                                                                    
