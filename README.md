@@ -84,7 +84,11 @@ ___
   
 <a href="https://docs.google.com/spreadsheets/d/1XRH22KkHJ5Mr7_fkhRIn-_NckQI4ZUgNsMhWQyM06JM/edit#gid=0">
 <img src="https://img.shields.io/badge/Позитивные_и_негативные-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Позитивные_и_негативные Button"/>
-</a></ul></li>
+</a>
+<a href="https://docs.google.com/spreadsheets/d/1HR_h-B516couTt7DCzzQHNckmSSxgmJBS1fFWhHzEnA/edit#gid=0">
+<img src="https://img.shields.io/badge/Применения_техник-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Предугадывание_ошибок Button"/>
+</a> 
+</ul></li>
 
 <div align="left">
 <li>Техники тест-дизайна основанные на опыте:
@@ -93,7 +97,7 @@ ___
 </a>
 <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=906918062">
 <img src="https://img.shields.io/badge/Предугадывание_ошибок-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Предугадывание_ошибок Button"/>
-</a>
+</a>                                                                                                                                                  
 </ul></li></div></div>
                                                                                                                                                    
   
