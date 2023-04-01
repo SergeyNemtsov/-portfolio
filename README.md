@@ -92,10 +92,10 @@ ___
 
 <div align="left">
 <li>Техники тест-дизайна основанные на опыте:
-<ul><a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=441719583">
+<ul><a href="https://docs.google.com/spreadsheets/d/1v22uhOU2iGjw_88ET4YL_cSkbadg9wqZvFySRc4n8WE/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Сессионное-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Сессионное Button"/>
 </a>
-<a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=906918062">
+<a href="https://docs.google.com/spreadsheets/d/1zm1QKyvqHYNSLUm44bqUR7N9Q3lN1LTqRtFytYT7doE/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Предугадывание_ошибок-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Предугадывание_ошибок Button"/>
 </a>                                                                                                                                                  
 </ul></li></div></div>
@@ -103,36 +103,24 @@ ___
   
 <div id="buttons" align="left">
 <li>План подтверждающего и регерссионного тестирования:
-<ul><a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=1330867641">
-<img src="https://img.shields.io/badge/Регрессионное-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Регрессионное Button"/>
+<ul><a href="https://docs.google.com/spreadsheets/d/1kgT3cNQhh-_gMJLjQC_NafDW3lFkIHD-P45TXMnNHTs/edit?usp=sharing">
+<img src="https://img.shields.io/badge/План-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Регрессионное Button"/>
 </a></ul></li></div>
                                                                                                                                        
 <div id="buttons" align="left">
 <li>
 Тест план для тестирования функций:                              
   
-<ul><a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=471195378">
+<ul><a href="https://docs.google.com/spreadsheets/d/1jBbvjZHY6fK3N0rgWj1mthJGf3bskTa2aswJNqBnoYs/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button"/>
 </a></ul></li>  </div>   
-                                                                                                                                       
-<div id="buttons" align="left">
-<li>Таблица и запросы по SQL:
-<ul><a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=18521223">
-<img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
-</a>
-</ul></li></div>      
+                                                                                                                                             
                                                                                                                            
 <div id="buttons" align="left">
 <li>Тестирование API (Postman):
-<ul><a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=1045960963">
+<ul><a href="https://docs.google.com/spreadsheets/d/1dHVaK1Pp66DwFTyLQUNwy4FLRnVe-ow2BiOc0AKUONA/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
 </a></ul></li></div>
-                                                                                                                                 
-<div id="buttons" align="left">
-<li>Тест-план:
-<ul><a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=471195378">
-<img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
-</a><ul></li></div>
 
 _____
 ### Знания по API
@@ -184,8 +172,12 @@ GitHub (PowerShell):
 <div id="buttons" align="left">
 <li>
 Запросы MySQL Workbench: 
-<ul><a href="https://docs.google.com/spreadsheets/d/1n1z8LlE5xs8dEHIETp7kAsKH-iZntSymiua2ROGlULE/edit#gid=0">
-<img src="https://img.shields.io/badge/Google_tables-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+<ul>
+ <a href="https://docs.google.com/spreadsheets/d/1n2bT1OGAucSLiBdLksXXs1GYt8uaY2N0TYLHRqJ7vgU/edit#gid=18521223">
+<img src="https://img.shields.io/badge/Часть1-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
+</a>                             
+<a href="https://docs.google.com/spreadsheets/d/1n1z8LlE5xs8dEHIETp7kAsKH-iZntSymiua2ROGlULE/edit#gid=0">
+<img src="https://img.shields.io/badge/Часть2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></ul></li></div>  
 
 
