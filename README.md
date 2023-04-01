@@ -207,7 +207,7 @@ ______
 <div id="buttons" align="left">
 <li>
 Определение локаторов: 
-<ul><a href="https://docs.google.com/spreadsheets/d/1ERL7ydYRQoCbRjF9OzhtWVwv5DBZAV-uAeTbCebYslg/edit#gid=1428561247">
+<ul><a href="https://docs.google.com/spreadsheets/d/1v50g3iheZC-zX27sXZYkD_k3KPvhQbqc06wa1TIT8dg/edit?usp=sharing">
 <img src="https://img.shields.io/badge/CSS/XPATH-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a></ul></li></div>                                                                                                                                                      
                                                                                                                                                    
