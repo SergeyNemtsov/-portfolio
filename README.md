@@ -172,7 +172,11 @@ GitHub (PowerShell):
 </a>                             
 <a href="https://docs.google.com/spreadsheets/d/1n1z8LlE5xs8dEHIETp7kAsKH-iZntSymiua2ROGlULE/edit#gid=0">
 <img src="https://img.shields.io/badge/Запросы2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
-</a></ul></li></div>  
+</a>
+ <a href="https://docs.google.com/spreadsheets/d/19O6dopZu1KAJbj8nIWgbPUGcX8mbHTVd5k4ZULzhLW8/edit#gid=0">
+<img src="https://img.shields.io/badge/Групповые_запросы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
+</a>                                                                                                                                             
+                                                                                                                                              </ul></li></div>  
 
 
 
