@@ -69,7 +69,7 @@ ___
 </a>
                                                                                                                    
 <a href="https://docs.google.com/spreadsheets/d/1k2vhN2r7aApHD2ge0heVZrDYkGNFl8rMksWGI2e5Ea0/edit?usp=sharing">
-<img src="https://img.shields.io/badge/Состояния/переходы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Состояния/переходы Button"/>
+<img src="https://img.shields.io/badge/Состояния_и_переходы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Состояния/переходы Button"/>
 </a>
   
 <a href="https://docs.google.com/spreadsheets/d/1PMLby8siVZrFYqxqXqUtIlPTF11e5e4S01grFJSybNI/edit?usp=sharing">
