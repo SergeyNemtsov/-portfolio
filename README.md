@@ -174,11 +174,8 @@ GitHub (PowerShell):
 <img src="https://img.shields.io/badge/Запросы2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>
  <a href="https://docs.google.com/spreadsheets/d/19O6dopZu1KAJbj8nIWgbPUGcX8mbHTVd5k4ZULzhLW8/edit#gid=0">
-<img src="https://img.shields.io/badge/Групповые_запросы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
+<img src="https://img.shields.io/badge/Групповые_и_вложенные_запросы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
 </a>  
- <a href="https://docs.google.com/spreadsheets/d/1Y0kaq9rfL1Wc4oM4-qVfOTEwLUqCjVW1FcoyzXqbwNc/edit?usp=sharing">
-<img src="https://img.shields.io/badge/Вложенные_запросы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
-</a>
   <a href="https://docs.google.com/spreadsheets/d/17nYmCspSDFChCtK4gtWLjzeZbfpNZHzTUoZAfi5--_c/edit?usp=sharing">
 <img src="https://img.shields.io/badge/Связанные_таблицы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
 </a>                                                                                                                                  
