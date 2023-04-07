@@ -168,10 +168,10 @@ GitHub (PowerShell):
 Запросы MySQL Workbench: 
 <ul>
  <a href="https://docs.google.com/spreadsheets/d/1cvMDS5YPlJ69B-Hf2UtuJkhbIKOK8r6KRaKEuMicZRA/edit?usp=sharing">
-<img src="https://img.shields.io/badge/Запросы1-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
+<img src="https://img.shields.io/badge/Базовые_апросы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
 </a>                             
 <a href="https://docs.google.com/spreadsheets/d/1n1z8LlE5xs8dEHIETp7kAsKH-iZntSymiua2ROGlULE/edit#gid=0">
-<img src="https://img.shields.io/badge/Запросы2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
+<img src="https://img.shields.io/badge/Базовые_запросы2-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Google_tables Button" target="_blank"/>
 </a>
  <a href="https://docs.google.com/spreadsheets/d/19O6dopZu1KAJbj8nIWgbPUGcX8mbHTVd5k4ZULzhLW8/edit#gid=0">
 <img src="https://img.shields.io/badge/Групповые_и_вложенные_запросы-9cf?style=plastic&logo=appveyor&logo=logoColor=dark alt="Таблица Button"/>
