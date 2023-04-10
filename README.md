@@ -182,6 +182,8 @@ GitHub (PowerShell):
 
 ______
 ### Основы Автоматизации
+
+##### В результате обучения  в [школе седого тестировщика](https://vk.com/zapiskisedogotestera) , тестировалась сайт ["TestGym"](http://testshop.sedtest-school.ru/) , предлагаю вам ознакомиться с примерами моего составления:
                                                                                                                                                    
  
 <div id="buttons" align="left">
